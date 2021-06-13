@@ -1,4 +1,4 @@
-# Prutor.ai_EPS
+# Prutor.ai_EBS
 
 LOGIN AS ADMIN :
 USERNAME : admin
