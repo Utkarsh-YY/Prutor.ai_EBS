@@ -13,13 +13,23 @@ PASSWORD : user
 
 
   Software used : My SQL, Eclipse, Screen builder
+  
+  
   Database Server : My SQL
+  
+  
   Operating System : Microsoft Windows
 
 
 FRONTEND TECHNOLOGIES:
-  Java FX
+
+
+  JavaFX
+  
+  
   CSS
+  
+  
   Adobe illustrator
   
 
